@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hello World Next.js!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Ta rodando next
         </p>
       </main>
 
